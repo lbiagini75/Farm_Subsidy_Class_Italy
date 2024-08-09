@@ -1,5 +1,5 @@
 # Farm_Subsidy_class_Italy
-Classification of  the subsidies on the FADN relyed on this class : 
+Classification of  the subsidies on the FADN relyed on this class : /n
 NAT_A: National or Regional Annual subsidies
 NAT_O: National or Regional subsidies for investments
 CDP: Coupled Direct Payments
